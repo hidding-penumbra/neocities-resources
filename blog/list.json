@@ -1,0 +1,9 @@
+{
+	"test": {
+		"pinned": false,
+		"file": "test.md",
+		"title": "This is a test",
+		"date": "08/14/2026",
+		"thumbnail": "thumbs/test.png"
+	}
+}
