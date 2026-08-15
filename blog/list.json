@@ -1,6 +1,7 @@
 {
 	"test": {
-		"pinned": false,
+		"pinned": true,
+		"pinnedweight": 1,
 		"file": "test.md",
 		"title": "This is a test",
 		"date": "08/14/2026",
