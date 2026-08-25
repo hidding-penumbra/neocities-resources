@@ -8,6 +8,9 @@ It can have *italic text*, **bold text**, links, images and more.
 
 And later we'll be able to add custom emojis too.
 
+:happy: :happy: :happy: :happy: :happy: :happy: :happy: 
+:happy:
+
 a
 
 a
