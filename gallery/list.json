@@ -2,18 +2,15 @@
 	"josejuan": {
 		"folder": "josejuan",
 		"title": "JOSE JUAN | OFFICIAL Bikini Horrors V3",
-		"paid": "https://ko-fi.com/s/a184269cc9",
-		"type": 1,
-		"price": 999.99,
+		"free": "https://ko-fi.com/s/a184269cc9",
+		"type": 0,
 		"date": "07/16/2026"
 	},
 	"pija": {
 		"folder": "pija",
 		"title": "PIJA | OFFICIAL Bikini Horrors V3",
-		"free": "https://youtube.com",
-		"pro": "https://ko-fi.com/s/d330bf8045",
-		"type": 2,
-		"price": 50,
+		"free": "https://ko-fi.com/s/d330bf8045",
+		"type": 0,
 		"date": "07/16/2026"
 	}
 }
