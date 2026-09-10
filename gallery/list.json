@@ -4,6 +4,7 @@
 		"title": "JOSE JUAN | OFFICIAL Bikini Horrors V3",
 		"free": "https://ko-fi.com/s/a184269cc9",
 		"type": 1,
+		"price":49.99,
 		"date": "07/16/2026"
 	},
 	"pija": {
@@ -11,6 +12,7 @@
 		"title": "PIJA | OFFICIAL Bikini Horrors V3",
 		"free": "https://ko-fi.com/s/d330bf8045",
 		"type": 2,
+		"price": 50,
 		"date": "07/16/2026"
 	}
 }
