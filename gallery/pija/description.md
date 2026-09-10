@@ -1,9 +1,12 @@
-# JOSE JUAN - OFFICIAL Bikini Horrors V3
+# PIJA - OFFICIAL Bikini Horrors V3
 
-Jose Juan **IS BACK** and renewed in **BIKINI HORRORS V3: Fiesta en la Piscina**!
+Suddenly, a wild ***PIJA*** appeared!
 
-I hope you guys like the new model, i made it in the span of *3 days* a little before the mod released. Thanks *MeiArt* for the face texture.
-It is recommended that if ported to Gmod, VR Chat, or any other media, that its set to an unshaded material, to mantain the original colors and semi-cel shading
+I'm glad people liked this one, i'm very proud of it, because it got me out of my comfort zone. It turned out really icky and really *unpleasent to look at*, just how we **wanted to**.
 
-> LICENSE: CC BY-NC-SA | CREDITS: Umbra & MeiArt
+**/!\ WARNING /!\ The model has exactly *32.361 vertices*. I do not recommend opening it if you have a bad computer.**
+
+**Postroff** designed it and made the blueprint, thanks!!
+
+> LICENSE: CC BY-NC-SA | CREDITS: Umbra & Postroff
 *(Can be used and modified but it needs to share this same license and credits)*
